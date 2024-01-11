@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>在vscode中用markdown语法编写博客</title>
+      <link href="/2024/01/11/%E5%9C%A8vscode%E4%B8%AD%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2024/01/11/%E5%9C%A8vscode%E4%B8%AD%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="博客初始化"><a href="#博客初始化" class="headerlink" title="博客初始化"></a>博客初始化</h1><ul><li><p>将vscode视为轻量化文本编辑器，ctrl+shift+p快捷键打开搜索栏，搜索Markdown: open locked preview in the side 即可生成博客预览图</p></li><li><p>在git bash终端输入 hexo new “博客标题”</p></li><li><p>在&#x2F;blog&#x2F;source&#x2F;_posts目录下自动生成.markdown文件</p></li></ul><h2 id="在vscode环境中基于markdown语言编写博客"><a href="#在vscode环境中基于markdown语言编写博客" class="headerlink" title="在vscode环境中基于markdown语言编写博客"></a>在vscode环境中基于markdown语言编写博客</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>花椒油的第一篇博客</title>
       <link href="/2024/01/07/%E8%8A%B1%E6%A4%92%E6%B2%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2024/01/07/%E8%8A%B1%E6%A4%92%E6%B2%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
