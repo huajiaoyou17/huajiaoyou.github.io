@@ -8,9 +8,15 @@
       <link href="/2024/01/24/web%E5%89%8D%E7%AB%AF%E7%BB%BC%E8%BF%B0/"/>
       <url>/2024/01/24/web%E5%89%8D%E7%AB%AF%E7%BB%BC%E8%BF%B0/</url>
       
-        <content type="html"><![CDATA[<h1 id="Web前端开发综述"><a href="#Web前端开发综述" class="headerlink" title="Web前端开发综述"></a>Web前端开发综述</h1><h2 id="Web工作原理"><a href="#Web工作原理" class="headerlink" title="Web工作原理"></a>Web工作原理</h2><pre><code>   用户在浏览器地址栏输入资源定位符URL（Uniform Resource Locator），然后通过域名服务器进行全球域名解析，并根据解析结果访问指定的IP地址的网站或网页   </code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="Web前端开发综述"><a href="#Web前端开发综述" class="headerlink" title="Web前端开发综述"></a>Web前端开发综述</h1><h2 id="Web工作原理"><a href="#Web工作原理" class="headerlink" title="Web工作原理"></a>Web工作原理</h2><p>用户在浏览器地址栏输入资源定位符URL（Uniform Resource Locator），然后通过域名服务器进行全球域名解析，并根据解析结果访问指定的IP地址的网站或网页</p><p>获取网站IP地址后，客户端的浏览器想指定IP地址上的Web服务器发送一个HTTP（HyperTest Transfer Protocol）请求，web服务器将用户所需的HTML文本和构成该网站的文件资源发送回用户机，</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
       
     </entry>
     
