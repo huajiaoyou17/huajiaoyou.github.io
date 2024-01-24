@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>web前端综述</title>
+      <link href="/2024/01/24/web%E5%89%8D%E7%AB%AF%E7%BB%BC%E8%BF%B0/"/>
+      <url>/2024/01/24/web%E5%89%8D%E7%AB%AF%E7%BB%BC%E8%BF%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Web前端开发综述"><a href="#Web前端开发综述" class="headerlink" title="Web前端开发综述"></a>Web前端开发综述</h1><h2 id="Web工作原理"><a href="#Web工作原理" class="headerlink" title="Web工作原理"></a>Web工作原理</h2><pre><code>   用户在浏览器地址栏输入资源定位符URL（Uniform Resource Locator），然后通过域名服务器进行全球域名解析，并根据解析结果访问指定的IP地址的网站或网页   </code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在vscode中用markdown语法编写博客</title>
       <link href="/2024/01/11/%E5%9C%A8vscode%E4%B8%AD%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
       <url>/2024/01/11/%E5%9C%A8vscode%E4%B8%AD%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
